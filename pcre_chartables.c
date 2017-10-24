@@ -1,1 +1,1 @@
-dist/pcre_chartables.c.dist
+#include "dist/pcre_chartables.c.dist"
